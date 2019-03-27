@@ -1,0 +1,629 @@
+[27-Oct-2018 15:27:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/milovanovicmojte/public_html/WeatherApi.php on line 31
+[27-Oct-2018 15:37:52 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: weather (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[27-Oct-2018 16:13:42 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: weather (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[27-Oct-2018 16:35:23 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: weather (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[27-Oct-2018 16:35:33 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: weather (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[27-Oct-2018 17:02:26 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: weather (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[27-Oct-2018 17:16:41 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: weather (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[27-Oct-2018 17:27:22 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: forecast (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 09:15:52 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:16:11 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:16:14 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:16:15 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:16:32 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:16:41 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:19:43 UTC] PHP Fatal error:  Call to undefined method WeatherApi::fetchWeatherDarkskyForCity() in /home/milovanovicmojte/public_html/weaher.history.php on line 17
+[28-Oct-2018 09:27:00 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: forecast (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 09:27:59 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: forecast (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 09:29:25 UTC] PHP Warning:  Missing argument 1 for WeatherApi::appendAuthorizationKey(), called in /home/milovanovicmojte/public_html/WeatherApi.php on line 64 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 83
+[28-Oct-2018 09:30:53 UTC] PHP Warning:  Missing argument 1 for WeatherApi::appendAuthorizationKey(), called in /home/milovanovicmojte/public_html/WeatherApi.php on line 64 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 83
+[28-Oct-2018 09:33:49 UTC] PHP Warning:  Missing argument 2 for WeatherApi::fetchWeatherDarkskyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 16 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 09:33:49 UTC] PHP Warning:  Missing argument 1 for WeatherApi::appendAuthorizationKey(), called in /home/milovanovicmojte/public_html/WeatherApi.php on line 65 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 84
+[28-Oct-2018 09:33:49 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: Ljubljana&APPID= (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/ in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 09:35:34 UTC] PHP Fatal error:  Using $this when not in object context in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[28-Oct-2018 09:37:24 UTC] PHP Warning:  Missing argument 1 for WeatherApi::fetchWeatherDarkskyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 14 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 09:37:24 UTC] PHP Warning:  Missing argument 2 for WeatherApi::fetchWeatherDarkskyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 14 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 09:37:24 UTC] PHP Warning:  Missing argument 1 for WeatherApi::appendAuthorizationKey(), called in /home/milovanovicmojte/public_html/WeatherApi.php on line 65 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 84
+[28-Oct-2018 09:37:24 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: &APPID= (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 09:59:34 UTC] PHP Warning:  Missing argument 1 for WeatherApi::fetchWeatherDarkskyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 14 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 09:59:34 UTC] PHP Warning:  Missing argument 2 for WeatherApi::fetchWeatherDarkskyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 14 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 09:59:34 UTC] PHP Warning:  Missing argument 1 for WeatherApi::appendAuthorizationKey(), called in /home/milovanovicmojte/public_html/WeatherApi.php on line 65 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 84
+[28-Oct-2018 09:59:34 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: &APPID= (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home/milovanovicmojte/public_ht in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 10:03:33 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/forecast?q=Ljubljana&APPID=5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\ in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:16:40 UTC] PHP Parse error:  syntax error, unexpected ',', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/milovanovicmojte/public_html/weaher.history.php on line 12
+[28-Oct-2018 10:21:51 UTC] PHP Parse error:  syntax error, unexpected ',', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/milovanovicmojte/public_html/weaher.history.php on line 12
+[28-Oct-2018 10:22:05 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/milovanovicmojte/public_html/weaher.history.php on line 12
+[28-Oct-2018 10:24:16 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/forecast?q=Ljubljana&APPID=5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\ in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:31:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:31:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:31:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:32:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:32:49 UTC] PHP Parse error:  syntax error, unexpected '$test' (T_VARIABLE), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:32:55 UTC] PHP Parse error:  syntax error, unexpected '$test' (T_VARIABLE), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:32:57 UTC] PHP Parse error:  syntax error, unexpected '$test' (T_VARIABLE), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:33:16 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 10:33:30 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/forecast?q=&APPID=5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure} in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:33:55 UTC] PHP Warning:  Missing argument 1 for WeatherApi::fetchWeatherHistoryForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 13 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 44
+[28-Oct-2018 10:33:55 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/forecast?q=&APPID=5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure} in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:34:20 UTC] PHP Warning:  Missing argument 1 for WeatherApi::fetchWeatherDarkSkyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 13 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 10:34:20 UTC] PHP Warning:  Missing argument 2 for WeatherApi::fetchWeatherDarkSkyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 13 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 10:41:41 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:42:36 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:45:28 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:50:00 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:50:32 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:54:17 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/forecast?q=14.515ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}() in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:56:57 UTC] PHP Warning:  Missing argument 2 for WeatherApi::fetchWeatherDarkSkyForCity(), called in /home/milovanovicmojte/public_html/weaher.history.php on line 13 and defined in /home/milovanovicmojte/public_html/WeatherApi.php on line 63
+[28-Oct-2018 10:56:57 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/Ljubljana5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /ho in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:58:04 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 10:58:16 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:02:49 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:03:31 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:03:42 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:13:56 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:15:12 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/milova in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:15:25 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/milova in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:16:26 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.515ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/m in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:16:54 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/46.0546.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:17:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/milovanovicmojte/public_html/WeatherApi.php on line 69
+[28-Oct-2018 11:18:04 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\RequestException' with message 'cURL error 1: Protocol "46.0514.51https" not supported or disabled in libcurl (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:186
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3  in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 186
+[28-Oct-2018 11:18:49 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/46.0546.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:20:31 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:20:50 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/5ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/milova in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:21:28 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ConnectException' with message 'cURL error 6: Could not resolve host: 5ad3fb5e0a2254159087a7353d0517c3https (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 185
+[28-Oct-2018 11:21:55 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:22:37 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/TEST14.5146.055ad3fb5e0a2254159087a7353d0517c3` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+# in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:24:02 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/TEST14.5146.05` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/milovanovicmojte/public_ in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 11:24:30 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/5ad3fb5e0a2254159087a7353d0517c314.5146.05` resulted in a `404 Not Found` response:
+Not Found
+
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /h in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[28-Oct-2018 12:43:01 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[28-Oct-2018 12:43:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/milovanovicmojte/public_html/weaher.history.php on line 13
+[29-Oct-2018 20:21:37 UTC] PHP Fatal error:  Call to undefined method WeatherManager::getCitiesWithCoordinates() in /home/milovanovicmojte/public_html/weaher.history.php on line 14
+[29-Oct-2018 20:24:00 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/5ad3fb5e0a2254159087a7353d0517c3/46.05694600,` resulted in a `400 Bad Request` response:
+{"code":400,"error":"The given location (or time) is invalid."}
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): Guzzle in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[29-Oct-2018 20:24:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'crdate,                
+                temperature,
+                windspeed, ' at line 3' in /home/milovanovicmojte/public_html/WeatherManager.php:57
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(57): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weaher.history.php(24): WeatherManager->handleWeather('1', 64.97, 12.95, 'rain', 1540843200)
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 57
+[29-Oct-2018 20:25:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'crdate,                
+                temperature,
+                windspeed, ' at line 3' in /home/milovanovicmojte/public_html/WeatherManager.php:57
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(57): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weaher.history.php(24): WeatherManager->handleWeather('1', 64.97, 12.95, 'rain', 1540843200)
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 57
+[29-Oct-2018 20:25:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'crdate,                
+                temperature,
+                windspeed, ' at line 3' in /home/milovanovicmojte/public_html/WeatherManager.php:57
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(57): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weaher.history.php(24): WeatherManager->handleWeather('1', 64.97, 12.95, 'rain', 1540843200)
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 57
+[29-Oct-2018 20:25:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/milovanovicmojte/public_html/WeatherManager.php:57
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(57): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weaher.history.php(24): WeatherManager->handleWeather('1', 64.97, 12.95, 'rain', 1540843200)
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 57
+[29-Oct-2018 20:26:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'preciptype' cannot be null' in /home/milovanovicmojte/public_html/WeatherManager.php:56
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(56): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weaher.history.php(24): WeatherManager->handleWeather('1', 45.33, 2.54, NULL, 1540965600)
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 56
+[29-Oct-2018 20:27:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'preciptype' cannot be null' in /home/milovanovicmojte/public_html/WeatherManager.php:56
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(56): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weaher.history.php(25): WeatherManager->handleWeather('1', 45.33, 2.54, NULL, 1540965600)
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 56
+[29-Oct-2018 20:27:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 24
+[29-Oct-2018 20:27:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/milovanovicmojte/public_html/weaher.history.php on line 24
+[29-Oct-2018 20:38:01 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/milovanovicmojte/public_html/weather.cron.php on line 4
+[29-Oct-2018 21:09:10 UTC] PHP Fatal error:  Call to a member function fetchWeatherDarkSkyForCity() on null in /home/milovanovicmojte/public_html/weather.cron.php on line 7
+[31-Oct-2018 19:21:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DEC' at line 13' in /home/milovanovicmojte/public_html/WeatherManager.php:77
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(77): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTime('2')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 77
+[01-Nov-2018 20:39:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '- INTERVAL 12 HOUR ))
+              AND
+              city_id = '1'
+            ' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 20:40:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '- 12 INTERVAL 1 HOUR ))
+              AND
+              city_id = '1'
+          ' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 20:41:20 UTC] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER) in /home/milovanovicmojte/public_html/WeatherManager.php on line 93
+[01-Nov-2018 20:41:39 UTC] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER) in /home/milovanovicmojte/public_html/WeatherManager.php on line 93
+[01-Nov-2018 21:04:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '- INTERVAL 12 HOUR ))
+              AND
+              city_id = '1'
+            ' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:77
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(77): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.view.php(15): WeatherManager->getWeatherForCityAndTime('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 77
+[01-Nov-2018 21:15:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< UNIX_TIMESTAMP(DATE_ADD(NOW(), INTERVAL 12 HOUR ))
+              AND
+         ' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:19:55 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting '(' in /home/milovanovicmojte/public_html/weather.view.php on line 53
+[01-Nov-2018 21:53:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '))
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIM' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:53:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '))
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIM' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:54:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIMI' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:54:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIMI' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:55:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INTERVAL 12 HOUR
+              AND
+              city_id = '1'
+            ORDER' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:55:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> INTERVAL 12 HOUR 
+              AND
+              city_id = '1'
+            OR' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:56:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND
+              city_id = '1'
+            ORDER BY id ASC LIMIT 12' at line 11' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 21:58:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' -12, CURRENT_TIMESTAMP)
+              AND
+              city_id = '1'
+         ' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 22:02:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '))
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIM' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 22:03:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'HOUR )
+              AND
+              city_id = '1'
+            ORDER BY id ASC' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[01-Nov-2018 22:03:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '))
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIM' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[04-Nov-2018 09:10:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/milovanovicmojte/public_html/WeatherApi.php on line 78
+[04-Nov-2018 09:16:50 UTC] PHP Fatal error:  Uncaught exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `GET https://api.darksky.net/forecast/5ad3fb5e0a2254159087a7353d0517c3/,` resulted in a `400 Bad Request` response:
+{"code":400,"error":"The given location (or time) is invalid."}
+' in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/milovanovicmojte/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promis in /home/milovanovicmojte/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[04-Nov-2018 17:16:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '))
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIM' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[04-Nov-2018 17:17:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '- INTERVAL 12 HOUR ))
+              AND
+              city_id = '1'
+            ' at line 10' in /home/milovanovicmojte/public_html/WeatherManager.php:100
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(100): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 100
+[04-Nov-2018 18:46:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+              AND
+              city_id = '1'
+            ORDER BY id ASC LIMI' at line 12' in /home/milovanovicmojte/public_html/WeatherManager.php:102
+Stack trace:
+#0 /home/milovanovicmojte/public_html/WeatherManager.php(102): PDOStatement->execute(Array)
+#1 /home/milovanovicmojte/public_html/weather.history.php(15): WeatherManager->getWeatherForCityAndTimeInPast('1')
+#2 {main}
+  thrown in /home/milovanovicmojte/public_html/WeatherManager.php on line 102

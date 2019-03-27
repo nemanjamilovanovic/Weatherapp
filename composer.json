@@ -1,0 +1,8 @@
+{
+    "name": "nemanja/vremenska",
+    "description": "Vremenska prognoza",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.2"
+    }
+}
